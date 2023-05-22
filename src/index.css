@@ -1,0 +1,18 @@
+:root {
+  --primary-color:#3f396d;
+  --secondary-color:#07003b;
+  --white: #fff;
+  --off-white: #f0f4ff;
+  --accent: #fca61f;
+  --light-purple: #6f34fe;
+}
+
+h1 {
+  font-size: 45px !important;
+  line-height: 88px;
+}
+
+h3 {
+  font-size: 30px !important;
+  line-height: 88px;
+}
