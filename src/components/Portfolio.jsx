@@ -50,15 +50,17 @@ function Portfolio() {
             <div className="col-md-6 col-lg-4 pt-3 pb-5">
               <div className="portfolio-item position-relative overflow-hidden">
                 <img src="/images/ultra-emart.png" />
-                <div className="portfolio-overlay">
-                  <div className="portfolio-text">
-                    <h2 className="text-white fw-bold">ULTRA E-mart</h2>
-                    <p className="text-white">
-                      This is the front-end of an e-commerce website developed
-                      using HTML, CSS, and Bootstrap.
-                    </p>
+                <a href="https://rheacezil.github.io/ultra-emart/#">
+                  <div className="portfolio-overlay">
+                    <div className="portfolio-text">
+                      <h2 className="text-white fw-bold">ULTRA E-mart</h2>
+                      <p className="text-white">
+                        This is the front-end of an e-commerce website developed
+                        using HTML, CSS, and Bootstrap.
+                      </p>
+                    </div>
                   </div>
-                </div>
+                </a>
               </div>
             </div>
 
